@@ -10,7 +10,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: cyan;
+    background-color: rgba(0, 0, 0, 0.133);
 }
 
 .calender{
@@ -35,6 +35,7 @@ body{
     font-size: 20px;
     color: darkgray;
 }
+
 
 .day-number{
     font-size: 80px;
